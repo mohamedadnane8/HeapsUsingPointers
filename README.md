@@ -13,4 +13,4 @@ A demonstration how the binary counter will be useful when creating this heap:
                        ...
                        
  the first '1' in the binary to start.
- after '1' means go to the left and '0' go to the right.	
+ the characters after the first '1' indicate where to go (1 to the left and 0 to the right).	
